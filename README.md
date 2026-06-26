@@ -143,6 +143,3 @@ observacoes
 
 ---
 
-## 📄 Relatório
-
-O relatório técnico no padrão SBC está disponível junto aos entregáveis do projeto.
