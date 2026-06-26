@@ -95,6 +95,6 @@ public class MainFrame extends JFrame {
     }
 
     private void abrirRelatorios() {
-        new RelatorioView(this).setVisible(true);
+        JOptionPane.showMessageDialog(this, "Módulo de relatórios em construção.", "Em breve", JOptionPane.INFORMATION_MESSAGE);
     }
 }
